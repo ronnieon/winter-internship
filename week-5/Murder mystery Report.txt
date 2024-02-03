@@ -1,0 +1,31 @@
+
+REPORT:
+
+1. Firstly we have the information that the murder happened on 1st January 2018 and in SQL city. So we sorted the dta according to that.
+
+2. The murder entry from that day gave us the following information:- "Security footage shows that there were 2 witnesses. The first witness lives at the last house on "Northwestern Dr". The second witness, named Annabel, lives somewhere on "Franklin Ave"."
+
+3. So we sorted the house data of the 'Northwestern Dr' in decreasing order to find the number of the last house which is owned by witness 1.
+
+4. Next we find Anabell from the Franklin Eve who is witness 2.
+
+5. After we get the IDs of these two people, we checked their interrogation entries to find more information.
+
+6. We got this: 
+
+Person 1:- "I heard a gunshot and then saw a man run out. He had a "Get Fit Now Gym" bag. The membership number on the bag started with "48Z". Only gold members have those bags. The man got into a car with a plate that included "H42W"
+
+Person 2:- "I saw the murder happen, and I recognized the killer from my gym when I was working out last week on January the 9th"
+
+7. From this we got to knowthe following things:
+
+    1. The culprit is a man.
+    2. He has a "Get Fit now Gym" bagpack which is only given to Gold members of the gym.
+    3. The culprit has a car whose number plate includes the digits "H42W".
+    4. The sighting happend on 9th January.
+    
+8. Taking this we checked the Gym's database and found two such people.
+
+9. After checking the car number, we finally got our culprit.
+
+10. The culprit is Mr. Jeremy Bowers.
